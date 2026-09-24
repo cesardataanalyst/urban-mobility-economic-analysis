@@ -89,7 +89,7 @@ Los resultados del análisis pueden servir como punto de partida para:
 
 Las conclusiones presentadas en el notebook se basan en los datos analizados y deben interpretarse dentro del alcance y las limitaciones de las fuentes utilizadas.
 
-Las principales variables analizadas fueron:
+## Las principales variables analizadas fueron:
 
 * **jams_delay:** retraso promedio causado por congestión.
 * **traffic_index_live:** índice de tráfico en tiempo real.
@@ -98,84 +98,12 @@ Las principales variables analizadas fueron:
 
 ---
 
-## ¿Qué contiene este repositorio?
-
-Este repositorio incluye los recursos necesarios para reproducir el análisis:
-
-* **Notebook principal (`mobility_economy_project_student.ipynb`)**
-
-  * Limpieza y preparación de datos.
-  * Integración de las bases de movilidad y economía.
-  * Análisis exploratorio de datos (EDA).
-  * Visualizaciones y conclusiones.
-
-* **README.md**
-
-  * Descripción del proyecto.
-  * Objetivos.
-  * Metodología.
-  * Instrucciones de uso.
-
-* **Gráficos**
+## Gráficos
 
   * Histogramas.
   * Boxplots.
   * Gráficos comparativos.
   * Visualizaciones utilizadas para identificar tendencias y valores atípicos.
-
----
-
-## Metodología
-
-El análisis se desarrolló siguiendo las siguientes etapas:
-
-1. Limpieza y estandarización de los datasets.
-2. Validación de formatos y nombres de columnas.
-3. Selección de variables relevantes.
-4. Integración de los datos mediante una **unión INNER** por ciudad y año.
-5. Análisis exploratorio utilizando estadísticas descriptivas y visualizaciones.
-6. Interpretación de resultados y elaboración de recomendaciones.
-
----
-
-## Principales hallazgos
-
-Los resultados muestran que las ciudades con mayor actividad económica tienden a presentar niveles elevados de congestión vehicular; sin embargo, la relación no es completamente lineal.
-
-Entre los hallazgos más relevantes se identificó que:
-
-* Grandes centros urbanos presentan mayores retrasos por tráfico.
-* Existen ciudades con alto PIB per cápita y niveles moderados de congestión gracias a sistemas de transporte más eficientes.
-* Bogotá y Lima aparecen como ciudades que podrían beneficiarse de inversiones adicionales en infraestructura de movilidad.
-* Los valores atípicos observados justifican análisis estadísticos complementarios para validar las relaciones encontradas.
-
----
-
-## ¿Cómo abrir el notebook en Google Colab?
-
-* Descarga o clona este repositorio.
-* Abre Google Colab.
-* Selecciona Archivo → Abrir notebook.
-* Ve a la pestaña GitHub o carga el archivo mobility_economy_project_student.ipynb.
-* Ejecuta las celdas en orden de arriba hacia abajo.
-
-  ---
-  
-## Herramientas utilizadas
-
-* **Python**
-* **Google Colab**
-* **Pandas**
-* **NumPy**
-* **Matplotlib**
-
----
-
-## Conclusiones
-
-Este análisis evidencia que la congestión vehicular puede estar asociada con diferencias en el desempeño económico urbano, aunque dicha relación depende de múltiples factores adicionales, como la infraestructura de transporte, la planificación urbana y el crecimiento demográfico.
-
-Los resultados obtenidos permiten identificar ciudades donde futuras inversiones en movilidad sostenible podrían generar impactos positivos sobre la productividad y la calidad de vida.
 
 ---
 
