@@ -109,6 +109,9 @@ Las conclusiones presentadas en el notebook se basan en los datos analizados y d
 
 https://github.com/cesardataanalyst/urban-mobility-economic-analysis/blob/main/S5_ladb_mobility_economy_project_student.ipynb
 
+👉 [Ver Notebook completo]  https://github.com/cesardataanalyst/urban-mobility-economic-analysis 
+
+
 
 
 ---
