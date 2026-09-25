@@ -105,6 +105,9 @@ Las conclusiones presentadas en el notebook se basan en los datos analizados y d
   * Gráficos comparativos.
   * Visualizaciones utilizadas para identificar tendencias y valores atípicos.
 
+## 📓 Notebook
+
+
 ---
 
 ## Autor
