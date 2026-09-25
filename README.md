@@ -112,8 +112,6 @@ https://github.com/cesardataanalyst/urban-mobility-economic-analysis/blob/main/S
 👉 [Ver Notebook completo]  https://github.com/cesardataanalyst/urban-mobility-economic-analysis 
 
 
-
-
 ---
 
 ## Autor
